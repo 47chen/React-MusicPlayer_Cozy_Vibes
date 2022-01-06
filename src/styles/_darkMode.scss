@@ -1,0 +1,54 @@
+$dark-font-color: rgb(243, 250, 253);
+$dark-font-second-color: rgb(104, 113, 118);
+$dark-background: rgb(44, 44, 44);
+
+.dark-background {
+  background-color: $dark-background;
+  color: $dark-font-color !important;
+  height: 100vh;
+}
+
+.dark-font {
+  color: $dark-font-color;
+}
+
+.dark-btn {
+  color: white;
+  border: 2px solid white;
+  outline: none;
+  z-index: 12;
+  &:hover {
+    background: white;
+    color: rgb(65, 65, 65);
+  }
+}
+
+.dark-library {
+  background-color: $dark-background;
+  h2 {
+    color: white;
+  }
+}
+
+.dark-song-description {
+  h3 {
+    color: $dark-font-color;
+  }
+
+  h4 {
+    color: $dark-font-second-color;
+  }
+}
+
+.dark-song-description-underImg {
+  h2 {
+    color: $dark-font-color;
+  }
+  h3 {
+    color: $dark-font-second-color;
+  }
+}
+
+.dark-header-icon-text {
+  color: $dark-font-color;
+}

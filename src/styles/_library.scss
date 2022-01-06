@@ -1,0 +1,78 @@
+.library {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 20rem;
+  height: 100%;
+  background-color: white;
+  box-shadow: 2px 2px 30px rgb(206, 203, 203);
+  overflow: scroll;
+  transform: translateX(-100%);
+  transition: all 0.5s ease;
+  opacity: 0;
+  h2 {
+    padding: 2rem;
+  }
+}
+
+.library-song {
+  display: flex;
+  align-items: center;
+  padding: 1rem 2rem 1rem 2rem;
+  cursor: pointer;
+  transition: background 0.5s ease;
+  img {
+    width: 35%;
+  }
+  &:hover {
+    background-color: rgb(189, 218, 228);
+  }
+}
+
+.song-description {
+  padding-left: 1rem;
+  h3 {
+    font-size: 1rem;
+  }
+  h4 {
+    font-size: 0.7rem;
+  }
+}
+
+// * {
+//   scrollbar-width: thin;
+//   scrollbar-color: rgba(155, 155, 155, 0.5) transparent;
+// }
+
+//scrollbar trick, need to be manually to implement this trick on Chrome
+//same effect as below * { } on other browser
+
+*::-webkit-scrollbar {
+  width: 5px;
+  height: 100%;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  scrollbar-color: rgba(155, 155, 155, 0.5);
+  border-radius: 20px;
+  border: transparent;
+}
+
+.selected {
+  background-color: rgb(194, 226, 232);
+}
+
+.active-library {
+  transform: translateX(0%);
+  opacity: 1;
+}
+
+@media screen and (max-width: 768px) {
+  .library {
+    width: 100%;
+  }
+}
