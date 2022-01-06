@@ -19,7 +19,7 @@ const Header = ({ setLibraryStatus, libraryStatus, isDarkModeActive, setIsDarkMo
                     className={`${isDarkModeActive? "dark-btn" : ""}`}
                     onClick={()=> setIsDarkModeActive(!isDarkModeActive)}
                 >
-                {`${isDarkModeActive? "Day Mode": "Dark Mode"}`}
+                {`${isDarkModeActive? "Day Mode": "Night Mode"}`}
                 <FontAwesomeIcon icon={isDarkModeActive? faMoon: faSun}/>
                 </button>
             </div>
