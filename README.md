@@ -6,6 +6,10 @@ https://wonderful-varahamihira-7201e6.netlify.app/
 
 Designed for programmers who need to highly focus on daily work with cozy vibes list. You can make your own list by adding more songs like lofi or anything you want in data.js, also you can make your own style by putting more features on it! It supports day/night mode and mobile browsers. Using React.js, SASS.
 
+# Deployment recommendation
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,10 +72,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/m
 ### Advanced Configuration
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
 ### `npm run build` fails to minify
 
