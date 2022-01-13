@@ -2,9 +2,9 @@
 
 https://wonderful-varahamihira-7201e6.netlify.app/
 
-#Intro
+# Intro
 
-Designed for programmers who need to highly focus on daily work with cozy vibes list. You can make your own list by adding more songs like lofi or anything you want in data.js, also you can make your own style by putting more features on it! It supports day/night mode and mobile browsers.
+Designed for programmers who need to highly focus on daily work with cozy vibes list. You can make your own list by adding more songs like lofi or anything you want in data.js, also you can make your own style by putting more features on it! It supports day/night mode and mobile browsers. Using React.js, SASS.
 
 # Getting Started with Create React App
 
