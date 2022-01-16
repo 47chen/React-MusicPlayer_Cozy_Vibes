@@ -213,6 +213,56 @@ function chillHop() {
       id: uuidv4(),
       active: false,
     },
+    {
+      name: "I Will Never Stop Writing Songs About Rain",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/09/2ce75252f5419a45d76bb93424ac1eae3e688b17-1024x1024.jpg",
+      artist: "Sleepy Fish",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=24831",
+      color: ["#feaf87", "#bae5fb"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Library Card",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/09/2ce75252f5419a45d76bb93424ac1eae3e688b17-1024x1024.jpg",
+      artist: "Sleepy Fish",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=24825",
+      color: ["#feaf87", "#bae5fb"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "From Afar",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/08/b0bb2309d0c8fe0a32907ecddab689501b7de5cf-1024x1024.jpg",
+      artist: "Hanz",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=24644",
+      color: ["#e99092", "#88b4f8"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Layover",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/06/23b2ff959731b56ea8545828b462311e8b1a2bcc-1024x1024.jpg",
+      artist: "Makzo, brillion.",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=20124",
+      color: ["#a4bc51", "#beaac9"],
+      id: uuidv4(),
+      active: false,
+    },
+    {
+      name: "Railway pulse",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/05/1245c0271290a3196328c0cf4aaa910cd873dfe7-1024x1024.jpg",
+      artist: "mommy, Sleepy Fish",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=19060",
+      color: ["#f4dec7", "#5b8cce"],
+      id: uuidv4(),
+      active: false,
+    },
 
     //ADD MORE HERE, WHATEVER YOU WANT
   ];
