@@ -184,7 +184,7 @@ function chillHop() {
       active: false,
     },
     {
-      name: "for when it's warmer",
+      name: "For when it's warmer",
       cover:
         "https://chillhop.com/wp-content/uploads/2020/07/d9cef192a40176c391f027231b399322ce91197d-1024x1024.jpg",
       artist: "Sleepy Fish",
