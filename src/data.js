@@ -203,6 +203,17 @@ function chillHop() {
       id: uuidv4(),
       acitve: false,
     },
+    {
+      name: "Tournament Arc",
+      cover:
+        "https://chillhop.com/wp-content/uploads/2021/09/2ce75252f5419a45d76bb93424ac1eae3e688b17-1024x1024.jpg",
+      artist: "Sleepy Fish",
+      audio: "https://mp3.chillhop.com/serve.php/?mp3=24824",
+      color: ["#feaf87", "#bae5fb"],
+      id: uuidv4(),
+      active: false,
+    },
+
     //ADD MORE HERE, WHATEVER YOU WANT
   ];
 }
