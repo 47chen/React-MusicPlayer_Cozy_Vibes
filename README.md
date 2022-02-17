@@ -5,6 +5,8 @@ https://wonderful-varahamihira-7201e6.netlify.app/
 # Intro
 
 Designed for programmers who need to highly focus on daily work with cozy vibes list. You can make your own list by adding more songs like lofi or anything you want in data.js, also you can make your own style by putting more features on it! It supports day/night mode and mobile browsers. Using React.js, SCSS.
+![截圖 2022-02-17 下午3 52 58](https://user-images.githubusercontent.com/44563581/154568973-8dff1670-0482-4882-820b-3927e4f2f178.png)
+
 
 # Deployment recommendation
 
